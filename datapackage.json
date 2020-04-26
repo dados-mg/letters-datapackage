@@ -31,7 +31,7 @@
         ]
       },
       "dialect": {
-      "delimiter": ",",
+      "delimiter": ","
     },
       "title": "This is the actual data",
       "format": "csv",
