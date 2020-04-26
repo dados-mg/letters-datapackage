@@ -23,8 +23,8 @@
           },
           {
             "name": "vowel",
-            "type": "string",
-            "format": "boolean",
+            "type": "boolean",
+            "format": "default",
             "title": "Grammer of letter",
             "description": "Is the letter a vowel?"
           }
