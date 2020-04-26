@@ -24,7 +24,7 @@
           {
             "name": "vowel",
             "type": "string",
-            "format": "binary",
+            "format": "boolean",
             "title": "Grammer of letter",
             "description": "Is the letter a vowel?"
           }
