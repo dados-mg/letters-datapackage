@@ -1,5 +1,6 @@
 "id","letter","vowel"
 1,"a",true
+1,"ã",true
 2,"b",false
 3,"c",false
 4,"d",false
