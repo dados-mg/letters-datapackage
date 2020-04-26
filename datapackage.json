@@ -30,6 +30,9 @@
           }
         ]
       },
+      "dialect": {
+      "delimiter": ",",
+    },
       "title": "This is the actual data",
       "format": "csv",
       "encoding": "UTF-8",
