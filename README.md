@@ -1,6 +1,6 @@
 # letters
 
-[![goodtables.io](https://goodtables.io/badge/github/fjuniorr/letters-datapackage.svg)](https://goodtables.io/github/fjuniorr/letters-datapackage)
+[![goodtables.io](https://goodtables.io/badge/github/dados-mg/letters-datapackage.svg)](https://goodtables.io/github/dados-mg/letters-datapackage)
 
 ## Visão geral
 
