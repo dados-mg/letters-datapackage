@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "letters",
-      "path": "data/letters-vowels.csv",
+      "path": "ftp://data-out.unavco.org/pub/products/position/UNIV/UNIV.cwu.igs14.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
