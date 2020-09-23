@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "letters",
-      "path": ["data/letters-vowels.csv", "data/letters-consonants.csv"],
+      "path": "data/letters-vowels.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
