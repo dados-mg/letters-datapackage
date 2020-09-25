@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "letters",
-      "path": "ftp://data-out.unavco.org/pub/products/position/UNIV/UNIV.cwu.igs14.csv",
+      "path": "data/letters-vowels.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -12,14 +12,20 @@
             "type": "integer",
             "format": "default",
             "title": "Incremental counter",
-            "description": "An integer counter for the rows"
+            "description": "An integer counter for the rows",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "letter",
             "type": "string",
             "format": "default",
             "title": "Alfhabet letter",
-            "description": "A lower case alfabet letter"
+            "description": "A lower case alfabet letter",
+            "constraints": {
+              "enum": ["a", "e", "i", "o", "u"]
+            }
           },
           {
             "name": "vowel",
