@@ -12,10 +12,7 @@
             "type": "integer",
             "format": "default",
             "title": "Incremental counter",
-            "description": "An integer counter for the rows",
-            "constraints": {
-              "unique": true
-            }
+            "description": "An integer counter for the rows"
           },
           {
             "name": "letter",
